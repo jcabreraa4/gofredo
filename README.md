@@ -1,10 +1,10 @@
-<p align="center">
-  <img src="assets/logo.webp" alt="Gofredo logo" width="180">
-</p>
+<img src="assets/logo.webp" alt="Gofredo logo" width="120" align="left">
 
 # Gofredo
 
 > Community Assistant
+
+<br clear="left">
 
 [![License](https://img.shields.io/badge/License-MIT-00ADD8.svg)](LICENSE)
 [![Go](https://img.shields.io/badge/Go-1.23-00ADD8?logo=go&logoColor=white)](https://go.dev)

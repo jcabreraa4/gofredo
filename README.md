@@ -6,7 +6,7 @@
 
 [![License](https://img.shields.io/badge/License-MIT-00ADD8.svg)](LICENSE)
 [![Go](https://img.shields.io/badge/Go-1.23-00ADD8?logo=go&logoColor=white)](https://go.dev)
-[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-17-EFEFEF?logo=postgresql&logoColor=white)](https://www.postgresql.org)
+[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-19-EFEFEF?logo=postgresql&logoColor=white)](https://www.postgresql.org)
 
 ---
 

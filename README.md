@@ -10,6 +10,30 @@
 
 ---
 
+## About
+
+Gofredo is a Discord community bot, written in Go as a way to learn the language on a real project. It is in its earliest stage: a `main.go` skeleton with the design already set — a Discord bot backed by PostgreSQL, deployed via Docker.
+
+## Features
+
+- Discord bot for community assistance.
+- PostgreSQL for persistent data.
+- Containerized deployment with Docker on a self-hosted server.
+
+## Stack
+
+- **Go** — Fast, compiled language with a strong standard library; the point of the project is learning it.
+- **PostgreSQL** — Battle-tested relational database for the bot's data.
+- **Docker** — Reproducible, self-hosted deployment.
+
+## Getting Started
+
+```bash
+go run main.go  # run the current skeleton locally
+```
+
+---
+
 ## License
 
 MIT © 2026 Jorge Cabrera — see [LICENSE](LICENSE) for details.

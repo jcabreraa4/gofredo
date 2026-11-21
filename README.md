@@ -22,9 +22,9 @@ Gofredo is a Discord community bot, written in Go as a way to learn the language
 
 ## Stack
 
-- **Go** — Fast, compiled language with a strong standard library; the point of the project is learning it.
+- **Go** — Fast, compiled language with a strong standard library.
 - **PostgreSQL** — Battle-tested relational database for the bot's data.
-- **Docker** — Reproducible, self-hosted deployment.
+- **Docker** — Reproducible, self-hosted deployment on a single server.
 
 ## Getting Started
 

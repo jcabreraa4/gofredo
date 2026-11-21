@@ -29,7 +29,7 @@ Gofredo is a Discord community bot, written in Go as a way to learn the language
 ## Getting Started
 
 ```bash
-go run main.go  # run the current skeleton locally
+go run .  # run the current skeleton locally
 ```
 
 ---

@@ -1,5 +1,5 @@
 <h1 align="left">
-  <img src="assets/logo.webp" alt="Gofredo logo" width="90" align="absmiddle"> Gofredo
+  <img src="assets/logo.webp" alt="Gofredo logo" width="60" align="absmiddle"> Gofredo
 </h1>
 
 > Community Assistant

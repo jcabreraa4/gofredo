@@ -1,11 +1,10 @@
 # Gofredo
 
-> Personal Discord Bot
+> Community Assistant
 
-[![License](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
+[![License](https://img.shields.io/badge/License-MIT-00ADD8.svg)](LICENSE)
 [![Go](https://img.shields.io/badge/Go-1.23-00ADD8?logo=go&logoColor=white)](https://go.dev)
-[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-17-4169E1?logo=postgresql&logoColor=white)](https://www.postgresql.org)
-[![Discord](https://img.shields.io/badge/Discord-Bot-5865F2?logo=discord&logoColor=white)](https://discord.gg)
+[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-17-EFEFEF?logo=postgresql&logoColor=white)](https://www.postgresql.org)
 
 ---
 

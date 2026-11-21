@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="assets/logo.webp" alt="Gofredo logo" width="180">
+</p>
+
 # Gofredo
 
 > Community Assistant
